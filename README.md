@@ -17,3 +17,5 @@ This will:
 A- Generate a CRAB config (`crab_cfg_<sample>.py`) under `<outdir>/<addtag>/` 
 
 B- Submit via `crab submit` (you can skip submission with `-t / --test` if you want check the crab_cfg file first)
+
+The output goes to personal EOS space: /eos/user/<initial>/<username>/<outdir>/<addtag>/
